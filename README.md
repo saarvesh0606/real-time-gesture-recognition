@@ -12,29 +12,30 @@ Using the hands' landmark data from Media Pipe, the application determines wheth
 
 A feature of the game allows for the countdown timer for the AI-generated opponent to be displayed without interfering with the video feed to the browser interface.
 
-Features
+* Features
 
-Live hand detection with MediaPipe
+1)Live hand detection with MediaPipe
 
-Accurate Rock–Paper–Scissors gesture classification
+2)Accurate Rock–Paper–Scissors gesture classification
 
-Two-player mode and AI opponent mode
+3)Two-player mode and AI opponent mode
 
-Web-based live video feed (Flask streaming)
+4)Web-based live video feed (Flask streaming)
 
-Non-blocking countdown timer
+5)Non-blocking countdown timer
 
+-----------------------------------------------------------
 
-Tech Stack
+* Tech Stack
 
-Python
+1)Python
 
-OpenCV
+2)OpenCV
 
-MediaPipe
+3)MediaPipe
 
-Flask
+4)Flask
 
-FPS display for performance monitoring
+5)FPS display for performance monitoring
 
-Works with standard webcam input
+6)Works with standard webcam input
